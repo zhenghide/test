@@ -1,0 +1,61 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 288 (0x120)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CA, ST=CA, L=CA, O=CA, OU=CA, CN=CA/emailAddress=CA
+        Validity
+            Not Before: Jun 29 05:36:24 2018 GMT
+            Not After : Jun 26 05:36:24 2028 GMT
+        Subject: C=CA, ST=CA, O=CA, OU=CA, CN=ecdsa/emailAddress=CA
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub: 
+                    04:22:1c:df:f2:b3:b8:8c:22:b6:7e:94:e7:ba:4b:
+                    21:b1:82:c1:12:11:b3:bc:a9:14:02:e8:a4:be:c9:
+                    54:af:fa:93:9d:87:23:e3:f3:b0:08:93:3a:89:f7:
+                    b6:f3:8e:a9:0a:68:97:58:c1:cf:83:2b:87:03:2a:
+                    07:38:c4:6a:73:97:c1:4f:f0:c9:f3:f2:3e:5a:b0:
+                    c9:fb:c8:eb:37:d4:3c:81:1b:5d:c2:39:26:34:49:
+                    25:8f:42:36:7f:f2:ed
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                17:26:A2:77:0F:88:3C:68:ED:9E:07:94:CD:37:34:A2:72:79:E2:90
+            X509v3 Authority Key Identifier: 
+                DirName:/C=CA/ST=CA/L=CA/O=CA/OU=CA/CN=CA/emailAddress=CA
+                serial:FD:11:05:C7:86:83:EA:6A
+
+    Signature Algorithm: sha256WithRSAEncryption
+         d9:34:5f:37:2b:86:46:11:6a:3a:42:d8:9f:72:a0:db:71:48:
+         00:f3:62:fa:56:3c:48:a4:bc:73:ca:7f:82:04:8e:0f:3d:a1:
+         5d:15:d2:d8:38:43:06:e2:57:41:f7:4f:ea:6e:f1:1a:19:2d:
+         a2:52:e3:46:30:6e:9b:61:e3:39:e9:db:0b:e8:b9:47:8d:d1:
+         7f:22:b5:5f:9b:11:86:45:42:34:d7:cc:b4:0a:dc:1d:ed:b5:
+         d0:fb:46:50:70:c4:4e:6a:41:e0:1a:0f:c6:fb:47:76:c6:bb:
+         91:8b:df:26:f3:47:2f:bc:1f:eb:dd:72:ea:8c:92:b9:d4:13:
+         56:8b
+-----BEGIN CERTIFICATE-----
+MIIC3jCCAkegAwIBAgICASAwDQYJKoZIhvcNAQELBQAwYTELMAkGA1UEBhMCQ0Ex
+CzAJBgNVBAgMAkNBMQswCQYDVQQHDAJDQTELMAkGA1UECgwCQ0ExCzAJBgNVBAsM
+AkNBMQswCQYDVQQDDAJDQTERMA8GCSqGSIb3DQEJARYCQ0EwHhcNMTgwNjI5MDUz
+NjI0WhcNMjgwNjI2MDUzNjI0WjBXMQswCQYDVQQGEwJDQTELMAkGA1UECAwCQ0Ex
+CzAJBgNVBAoMAkNBMQswCQYDVQQLDAJDQTEOMAwGA1UEAwwFZWNkc2ExETAPBgkq
+hkiG9w0BCQEWAkNBMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEIhzf8rO4jCK2fpTn
+ukshsYLBEhGzvKkUAuikvslUr/qTnYcj4/OwCJM6ife2846pCmiXWMHPgyuHAyoH
+OMRqc5fBT/DJ8/I+WrDJ+8jrN9Q8gRtdwjkmNEklj0I2f/Lto4HYMIHVMAkGA1Ud
+EwQCMAAwLAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmlj
+YXRlMB0GA1UdDgQWBBQXJqJ3D4g8aO2eB5TNNzSicnnikDB7BgNVHSMEdDByoWWk
+YzBhMQswCQYDVQQGEwJDQTELMAkGA1UECAwCQ0ExCzAJBgNVBAcMAkNBMQswCQYD
+VQQKDAJDQTELMAkGA1UECwwCQ0ExCzAJBgNVBAMMAkNBMREwDwYJKoZIhvcNAQkB
+FgJDQYIJAP0RBceGg+pqMA0GCSqGSIb3DQEBCwUAA4GBANk0XzcrhkYRajpC2J9y
+oNtxSADzYvpWPEikvHPKf4IEjg89oV0V0tg4QwbiV0H3T+pu8RoZLaJS40Ywbpth
+4znp2wvouUeN0X8itV+bEYZFQjTXzLQK3B3ttdD7RlBwxE5qQeAaD8b7R3bGu5GL
+3ybzRy+8H+vdcuqMkrnUE1aL
+-----END CERTIFICATE-----
